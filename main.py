@@ -1,5 +1,6 @@
 from PIL import Image
 from math import floor
+import random
 
 def generate_maze(image):
     with Image.open(image) as img:
@@ -11,6 +12,52 @@ def generate_maze(image):
                 pixel = 0 if rgb_img.getpixel(((x * floor(rgb_img.width/81)) + 2, (y * floor(rgb_img.width/81)) + 2)) == (255, 255, 255) else 1
                 maze[y].append(pixel)
     return maze
+
+def print_maze(maze, title):
+    new_img = Image.new('RGB', (81, 81), color = (255, 255, 255))
+    for x in range(81):
+        for y in range(81):
+            if (maze[x][y]) != 0:
+                new_img.putpixel((x, y), (0, 0, 0)) if maze[x][y] == 1 else new_img.putpixel((x, y), (255, 0, 0))
+    new_img.save(title + '.png')
+
+def print_maze_with_path(maze, path):
+    new_img = Image.new('RGB', (81, 81), color = (255, 255, 255))
+    for x in range(81):
+        for y in range(81):
+            if (maze[x][y]) != 0:
+                new_img.putpixel((x, y), (0, 0, 0)) if maze[x][y] == 1 else new_img.putpixel((x, y), (255, 0, 0))
+    for point in path:
+        new_img.putpixel(point, (255, 0, 0))
+    new_img.save('solved.png')
+
+def open_some_walls(maze):
+    random.seed(2)
+    squares = [2, 27, 53, 79]
+    for i in range(3):
+        for j in range(3):
+            wall = [1, 1]
+            # for um caminho, ou não for uma parede que a direita e esquerda seja caminho ou cima e baixo seja parede
+            while maze[wall[1]][wall[0]] != 1 or (not (maze[wall[1] - 1][wall[0]] == 0 and maze[wall[1] + 1][wall[0]] == 0) and not (maze[wall[1]][wall[0] - 1] == 0 and maze[wall[1]][wall[0] + 1] == 0)):
+                wall[0] = random.randint(squares[i], squares[1 + i])
+                wall[1] = random.randint(squares[j], squares[1 + j])
+            maze[wall[1]][wall[0]] = 0
+            if (i == 1 and j == 1):
+                for k in range(12):
+                    wall = [1, 1]
+                    while maze[wall[1]][wall[0]] != 1 or not (maze[wall[1] - 1][wall[0]] == 0 and maze[wall[1] + 1][wall[0]] == 0):
+                        wall[0] = random.randint(squares[i], squares[1 + i])
+                        wall[1] = random.randint(squares[j], squares[1 + j])
+                    maze[wall[1]][wall[0]] = 0
+    return maze
+
+def generate_trophy_location(maze):
+    random.seed(5)
+    location = [0, 0]
+    while maze[location[1]][location[0]] == 1:
+        location[0] = random.randint(27, 53)
+        location[1] = random.randint(27, 53)
+    return (location[0], location[1])
 
 
 class Node():
@@ -118,25 +165,18 @@ def astar(maze, start, end):
 def main():
 
     maze = generate_maze('702.png')
+    print_maze(maze, 'old')
+    open_some_walls(maze)
+    print_maze(maze, 'new-1')
 
     start = (27, 0)
-    end = (27, 80)
+    end = (53, 80)
+    # end = generate_trophy_location(maze)
 
     path = astar(maze, start, end)
-    # print(path)
+    print(path)
 
-    new_img = Image.new('RGB', (81, 81), color = (255, 255, 255))
-    for x in range(81):
-        for y in range(81):
-            if (maze[x][y]):
-                new_img.putpixel((x, y), (0, 0, 0))
-
-    for point in path:
-        new_img.putpixel(point, (255, 0, 0))
-
-    new_img.show()
-
-    
+    print_maze_with_path(maze, path)
 
 
 if __name__ == '__main__':
