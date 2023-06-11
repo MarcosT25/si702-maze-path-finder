@@ -1,5 +1,5 @@
 from PIL import Image
-from math import floor
+from math import floor, sqrt
 import random
 
 def generate_maze(image):
@@ -21,7 +21,7 @@ def print_maze(maze, title):
                 new_img.putpixel((x, y), (0, 0, 0)) if maze[x][y] == 1 else new_img.putpixel((x, y), (255, 0, 0))
     new_img.save(title + '.png')
 
-def print_maze_with_path(maze, path):
+def print_maze_with_path(maze, path, i):
     new_img = Image.new('RGB', (81, 81), color = (255, 255, 255))
     for x in range(81):
         for y in range(81):
@@ -29,7 +29,7 @@ def print_maze_with_path(maze, path):
                 new_img.putpixel((x, y), (0, 0, 0)) if maze[x][y] == 1 else new_img.putpixel((x, y), (255, 0, 0))
     for point in path:
         new_img.putpixel(point, (255, 0, 0))
-    new_img.save('solved.png')
+    new_img.save(str(i + 1) + 'solve.png')
 
 def open_some_walls(maze):
     random.seed(2)
@@ -43,7 +43,7 @@ def open_some_walls(maze):
                 wall[1] = random.randint(squares[j], squares[1 + j])
             maze[wall[1]][wall[0]] = 0
             if (i == 1 and j == 1):
-                for k in range(12):
+                for k in range(40):
                     wall = [1, 1]
                     while maze[wall[1]][wall[0]] != 1 or not (maze[wall[1] - 1][wall[0]] == 0 and maze[wall[1] + 1][wall[0]] == 0):
                         wall[0] = random.randint(squares[i], squares[1 + i])
@@ -90,6 +90,7 @@ def astar(maze, start, end):
     # Initialize both open and closed list
     open_list = []
     closed_list = []
+    solves = []
 
     # Add the start node
     open_list.append(start_node)
@@ -116,7 +117,12 @@ def astar(maze, start, end):
             while current is not None:
                 path.append(current.position)
                 current = current.parent
-            return path[::-1] # Return reversed path
+            solves.append(path[::-1])
+            for open_node in open_list:
+                if open_node.f <= current_node.f:
+                    break
+            else:
+                return solves # Return reversed path
 
         # Generate children
         children = []
@@ -150,13 +156,13 @@ def astar(maze, start, end):
 
             # Create the f, g, and h values
             child.g = current_node.g + 1
-            child.h = ((child.position[0] - end_node.position[0]) ** 2) + ((child.position[1] - end_node.position[1]) ** 2)
+            child.h = sqrt(((child.position[0] - end_node.position[0]) ** 2) + ((child.position[1] - end_node.position[1]) ** 2))
             child.f = child.g + child.h
 
             # Child is already in the open list
-            for open_node in open_list:
-                if child == open_node and child.g > open_node.g:
-                    flag = True
+            # for open_node in open_list:
+            #     if child == open_node and child.g > open_node.g:
+            #         flag = True
 
             # Add the child to the open list
             if not flag: open_list.append(child)
@@ -170,13 +176,14 @@ def main():
     print_maze(maze, 'new-1')
 
     start = (27, 0)
-    end = (53, 80)
-    # end = generate_trophy_location(maze)
+    # end = (27, 80)
+    end = generate_trophy_location(maze)
 
-    path = astar(maze, start, end)
-    print(path)
+    solves = astar(maze, start, end)
+    print(f'A estrela encontrou {len(solves)} soluções')
 
-    print_maze_with_path(maze, path)
+    for i in range(len(solves)):
+        print_maze_with_path(maze, solves[i], i)
 
 
 if __name__ == '__main__':
