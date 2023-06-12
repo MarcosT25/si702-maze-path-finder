@@ -20,7 +20,7 @@
           <button @click="increment">&lt;</button>
           <button @click="decrement">></button>
           <button @click="end">>></button>
-          <p>jjj</p>
+          <p>Nós Abertos:</p>
         </div>
       </div>
     </div>
@@ -30,8 +30,28 @@
 <script>
 import { defineComponent, ref, reactive } from 'vue';
 import json from '../../public/final-graph.json'
+import lists from '../../public/open-closed-lists.json'
 
 export default defineComponent({
+  props: {
+    lists: {
+      type: Array,
+      default: () => lists
+    }
+  },
+  data() {
+    return {
+      iteration: 0
+    }
+  },
+  methods: {
+    listsFilter(i) {
+      return this.lists[i]
+    },
+    selectList(i) {
+      this.iteration += i
+    }
+  },
 
   setup() {
     // let i = json.length;
