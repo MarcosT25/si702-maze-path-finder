@@ -1,8 +1,9 @@
-import Vue from 'vue'
+import { createApp } from 'vue'
 import App from './App.vue'
+import router from './router'
+import VueBlocksTree from 'vue3-blocks-tree';
+import 'vue3-blocks-tree/dist/vue3-blocks-tree.css';
 
-Vue.config.productionTip = false
+let defaultoptions = { treeName: 'blocks-tree' }
 
-new Vue({
-  render: h => h(App),
-}).$mount('#app')
+createApp(App).component('blocks-tree', VueBlocksTree).use(router, VueBlocksTree).mount('#app')
