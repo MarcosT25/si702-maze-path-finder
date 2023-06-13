@@ -1,1 +1,950 @@
-{"name": "(9, 24)", "value": 0, "expand": "true", "color": "red", "children": [{"name": "(9, 23)", "value": 13.65, "expand": "true", "color": "red", "children": [{"name": "(9, 22)", "value": 13.7, "expand": "true", "color": "red", "children": [{"name": "(9, 21)", "value": 13.77, "expand": "true", "color": "red", "children": [{"name": "(10, 21)", "value": 14.44, "expand": "true", "color": "red", "children": [{"name": "(11, 21)", "value": 15.2, "expand": "true", "color": "red", "children": [{"name": "(11, 20)", "value": 15.22, "expand": "true", "color": "red", "children": [{"name": "(11, 19)", "value": 15.25, "expand": "true", "color": "red", "children": [{"name": "(11, 18)", "value": 15.28, "expand": "true", "color": "red", "children": [{"name": "(11, 17)", "value": 15.32, "expand": "true", "color": "red", "children": [{"name": "(12, 17)", "value": 16.08, "expand": "true", "color": "red", "children": [{"name": "(13, 17)", "value": 17.0, "expand": "true", "color": "red", "children": [{"name": "(13, 16)", "value": 17.0, "expand": "true", "color": "red", "children": [{"name": "(13, 15)", "value": 17.0, "expand": "true", "color": "red", "children": [{"name": "(14, 15)", "value": 18.12, "expand": "true", "color": "red", "children": [{"name": "(15, 15)", "value": 19.47, "expand": "true", "color": "red", "children": [{"name": "(15, 14)", "value": 19.61, "expand": "true", "color": "red", "children": [{"name": "(15, 13)", "value": 19.83, "expand": "true", "color": "red", "children": [{"name": "(16, 13)", "value": 21.61, "expand": "true", "color": "red", "children": [{"name": "(17, 13)", "value": 23.47, "expand": "true", "color": "red", "children": [{"name": "(17, 14)", "value": 25.0, "expand": "true", "color": "red", "children": [{"name": "(17, 15)", "value": 26.66, "expand": "true", "color": "red", "children": [{"name": "(18, 15)", "value": 28.4, "expand": "true", "color": "red", "children": [{"name": "(19, 15)", "value": 30.21, "expand": "true", "color": "red", "children": [{"name": "(19, 14)", "value": 30.71, "expand": "true", "color": "red", "children": [{"name": "(19, 13)", "value": 31.32, "expand": "true", "color": "red", "children": [{"name": "(20, 13)", "value": 33.28, "expand": "true", "color": "red", "children": [{"name": "(21, 13)", "value": 35.25, "expand": "true", "color": "red", "children": [{"name": "(21, 12)", "value": 36.06, "expand": "true", "color": "red", "children": [{"name": "(21, 11)", "value": 37.0, "expand": "true", "color": "red", "children": [{"name": "(22, 11)", "value": 39.0, "expand": "true", "color": "red", "children": [{"name": "(23, 11)", "value": 41.0, "expand": "true", "color": "red", "children": [{"name": "(23, 10)", "value": 42.05, "expand": "true", "color": "red", "children": [{"name": "(23, 9)", "value": 43.2, "expand": "true", "color": "red", "children": [{"name": "(23, 8)", "value": 44.44, "expand": "true", "color": "red", "children": [{"name": "(23, 7)", "value": 45.77, "expand": "true", "color": "red", "children": [{"name": "(23, 6)", "value": 47.18, "expand": "true", "color": "red", "children": [{"name": "(23, 5)", "value": 48.66, "expand": "true", "color": "red", "children": [{"name": "(22, 5)", "value": 48.82, "expand": "true", "color": "red", "children": [{"name": "(21, 5)", "value": 49.0, "expand": "true", "color": "red", "children": [{"name": "(20, 5)", "value": 49.22, "expand": "true", "color": "red", "children": [{"name": "(19, 5)", "value": 49.49, "expand": "true", "color": "red", "children": [{"name": "(19, 6)", "value": 49.81, "expand": "true", "color": "red", "children": [{"name": "(19, 7)", "value": 50.21, "expand": "true", "color": "red", "children": [{"name": "(19, 8)", "value": 50.71, "expand": "true", "color": "red", "children": [{"name": "(19, 9)", "value": 51.32, "expand": "true", "color": "red", "children": [{"name": "(18, 9)", "value": 51.39, "expand": "true", "color": "red", "children": [{"name": "(17, 9)", "value": 51.47, "expand": "true", "color": "red", "children": [{"name": "(17, 10)", "value": 52.12, "expand": "true", "color": "red", "children": [{"name": "(17, 11)", "value": 53.0, "expand": "true", "color": "red", "children": [{"name": "(16, 11)", "value": 53.0, "expand": "true", "color": "red", "children": [{"name": "(15, 11)", "value": 53.0, "expand": "true", "color": "red", "children": [{"name": "(14, 11)", "value": 53.0, "expand": "true", "color": "red", "children": [{"name": "(13, 11)", "value": 53.0, "expand": "true", "color": "red"}]}]}]}, {"name": "(18, 11)", "value": 55.0, "expand": "true", "color": "black"}]}]}]}]}, {"name": "(20, 9)", "value": 53.28, "expand": "true", "color": "black"}]}]}]}]}]}]}]}]}]}]}]}]}, {"name": "(24, 9)", "value": 45.18, "expand": "true", "color": "black", "children": []}]}]}, {"name": "(23, 12)", "value": 42.05, "expand": "true", "color": "black", "children": [{"name": "(23, 13)", "value": 43.2, "expand": "true", "color": "black", "children": [{"name": "(23, 14)", "value": 44.44, "expand": "true", "color": "black", "children": [{"name": "(23, 15)", "value": 45.77, "expand": "true", "color": "black", "children": [{"name": "(22, 15)", "value": 45.85, "expand": "true", "color": "black", "children": [{"name": "(21, 15)", "value": 45.94, "expand": "true", "color": "black", "children": [{"name": "(21, 16)", "value": 47.43, "expand": "true", "color": "black", "children": [{"name": "(21, 17)", "value": 49.0, "expand": "true", "color": "black", "children": [{"name": "(22, 17)", "value": 50.82, "expand": "true", "color": "black", "children": [{"name": "(23, 17)", "value": 52.66, "expand": "true", "color": "black", "children": [{"name": "(23, 18)", "value": 54.21, "expand": "true", "color": "black"}]}]}]}]}]}]}, {"name": "(24, 15)", "value": 47.7, "expand": "true", "color": "black", "children": []}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}, {"name": "(8, 23)", "value": 15.0, "expand": "true", "color": "black", "children": [{"name": "(7, 23)", "value": 16.42, "expand": "true", "color": "black", "children": [{"name": "(6, 23)", "value": 17.89, "expand": "true", "color": "black", "children": [{"name": "(5, 23)", "value": 19.42, "expand": "true", "color": "black", "children": [{"name": "(4, 23)", "value": 21.0, "expand": "true", "color": "black", "children": [{"name": "(3, 23)", "value": 22.62, "expand": "true", "color": "black", "children": [{"name": "(3, 22)", "value": 22.87, "expand": "true", "color": "black", "children": [{"name": "(3, 21)", "value": 23.14, "expand": "true", "color": "black", "children": [{"name": "(3, 20)", "value": 23.45, "expand": "true", "color": "black", "children": [{"name": "(3, 19)", "value": 23.81, "expand": "true", "color": "black", "children": [{"name": "(4, 19)", "value": 24.04, "expand": "true", "color": "black", "children": [{"name": "(5, 19)", "value": 24.31, "expand": "true", "color": "black", "children": [{"name": "(5, 18)", "value": 24.63, "expand": "true", "color": "black", "children": [{"name": "(5, 17)", "value": 25.0, "expand": "true", "color": "black", "children": [{"name": "(5, 16)", "value": 25.43, "expand": "true", "color": "black", "children": [{"name": "(5, 15)", "value": 25.94, "expand": "true", "color": "black", "children": [{"name": "(5, 14)", "value": 26.54, "expand": "true", "color": "black", "children": [{"name": "(5, 13)", "value": 27.25, "expand": "true", "color": "black", "children": [{"name": "(4, 13)", "value": 29.22, "expand": "true", "color": "black", "children": [{"name": "(3, 13)", "value": 31.2, "expand": "true", "color": "black", "children": [{"name": "(3, 12)", "value": 32.05, "expand": "true", "color": "black", "children": [{"name": "(3, 11)", "value": 33.0, "expand": "true", "color": "black", "children": [{"name": "(3, 10)", "value": 34.05, "expand": "true", "color": "black", "children": [{"name": "(3, 9)", "value": 35.2, "expand": "true", "color": "black", "children": [{"name": "(3, 8)", "value": 36.44, "expand": "true", "color": "black", "children": [{"name": "(3, 7)", "value": 37.77, "expand": "true", "color": "black", "children": [{"name": "(2, 7)", "value": 39.7, "expand": "true", "color": "black", "children": [{"name": "(1, 7)", "value": 41.65, "expand": "true", "color": "black", "children": [{"name": "(1, 6)", "value": 43.0, "expand": "true", "color": "black", "children": [{"name": "(1, 5)", "value": 44.42, "expand": "true", "color": "black", "children": [{"name": "(1, 4)", "value": 45.89, "expand": "true", "color": "black", "children": [{"name": "(1, 3)", "value": 47.42, "expand": "true", "color": "black", "children": [{"name": "(1, 2)", "value": 49.0, "expand": "true", "color": "black", "children": [{"name": "(1, 1)", "value": 50.62, "expand": "true", "color": "black", "children": []}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}, {"name": "(2, 23)", "value": 24.28, "expand": "true", "color": "black", "children": [{"name": "(1, 23)", "value": 25.97, "expand": "true", "color": "black", "children": [{"name": "(1, 22)", "value": 26.28, "expand": "true", "color": "black", "children": [{"name": "(1, 21)", "value": 26.62, "expand": "true", "color": "black", "children": [{"name": "(1, 20)", "value": 27.0, "expand": "true", "color": "black", "children": [{"name": "(1, 19)", "value": 27.42, "expand": "true", "color": "black", "children": [{"name": "(1, 18)", "value": 27.89, "expand": "true", "color": "black", "children": [{"name": "(1, 17)", "value": 28.42, "expand": "true", "color": "black", "children": [{"name": "(2, 17)", "value": 28.53, "expand": "true", "color": "black", "children": [{"name": "(3, 17)", "value": 28.66, "expand": "true", "color": "black", "children": [{"name": "(3, 16)", "value": 29.18, "expand": "true", "color": "black", "children": [{"name": "(3, 15)", "value": 29.77, "expand": "true", "color": "black", "children": [{"name": "(2, 15)", "value": 31.7, "expand": "true", "color": "black", "children": [{"name": "(1, 15)", "value": 33.65, "expand": "true", "color": "black", "children": [{"name": "(1, 14)", "value": 34.37, "expand": "true", "color": "black", "children": [{"name": "(1, 13)", "value": 35.17, "expand": "true", "color": "black", "children": [{"name": "(1, 12)", "value": 36.04, "expand": "true", "color": "black", "children": [{"name": "(1, 11)", "value": 37.0, "expand": "true", "color": "black", "children": [{"name": "(1, 10)", "value": 38.04, "expand": "true", "color": "black", "children": [{"name": "(1, 9)", "value": 39.17, "expand": "true", "color": "black", "children": [{"name": "(0, 9)", "value": 41.15, "expand": "true", "color": "black", "children": []}]}]}]}]}]}]}, {"name": "(0, 15)", "value": 35.6, "expand": "true", "color": "black", "children": []}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}
+{
+    "name": "(9, 0)",
+    "value": 0,
+    "expand": "true",
+    "color": "red",
+    "children": [
+        {
+            "name": "(9, 1)",
+            "value": 15.32,
+            "expand": "true",
+            "color": "red",
+            "children": [
+                {
+                    "name": "(9, 2)",
+                    "value": 15.42,
+                    "expand": "true",
+                    "color": "red",
+                    "children": [
+                        {
+                            "name": "(9, 3)",
+                            "value": 15.53,
+                            "expand": "true",
+                            "color": "red",
+                            "children": [
+                                {
+                                    "name": "(8, 3)",
+                                    "value": 17.04,
+                                    "expand": "true",
+                                    "color": "red",
+                                    "children": [
+                                        {
+                                            "name": "(7, 3)",
+                                            "value": 18.6,
+                                            "expand": "true",
+                                            "color": "red",
+                                            "children": [
+                                                {
+                                                    "name": "(6, 3)",
+                                                    "value": 20.21,
+                                                    "expand": "true",
+                                                    "color": "red",
+                                                    "children": [
+                                                        {
+                                                            "name": "(5, 3)",
+                                                            "value": 21.87,
+                                                            "expand": "true",
+                                                            "color": "red",
+                                                            "children": [
+                                                                {
+                                                                    "name": "(4, 3)",
+                                                                    "value": 23.56,
+                                                                    "expand": "true",
+                                                                    "color": "red",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "(3, 3)",
+                                                                            "value": 25.28,
+                                                                            "expand": "true",
+                                                                            "color": "red",
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "(3, 2)",
+                                                                                    "value": 26.97,
+                                                                                    "expand": "true",
+                                                                                    "color": "black",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "(3, 1)",
+                                                                                            "value": 28.69,
+                                                                                            "expand": "true",
+                                                                                            "color": "black",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "(4, 1)",
+                                                                                                    "value": 29.03,
+                                                                                                    "expand": "true",
+                                                                                                    "color": "black",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "name": "(5, 1)",
+                                                                                                            "value": 29.4,
+                                                                                                            "expand": "true",
+                                                                                                            "color": "black",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "name": "(6, 1)",
+                                                                                                                    "value": 29.81,
+                                                                                                                    "expand": "true",
+                                                                                                                    "color": "black",
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "name": "(7, 1)",
+                                                                                                                            "value": 30.26,
+                                                                                                                            "expand": "true",
+                                                                                                                            "color": "black",
+                                                                                                                            "children": []
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "name": "(3, 4)",
+                                                                                    "value": 25.62,
+                                                                                    "expand": "true",
+                                                                                    "color": "red",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "(3, 5)",
+                                                                                            "value": 26.0,
+                                                                                            "expand": "true",
+                                                                                            "color": "red",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "(4, 5)",
+                                                                                                    "value": 26.21,
+                                                                                                    "expand": "true",
+                                                                                                    "color": "red",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "name": "(5, 5)",
+                                                                                                            "value": 26.45,
+                                                                                                            "expand": "true",
+                                                                                                            "color": "red",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "name": "(5, 6)",
+                                                                                                                    "value": 26.81,
+                                                                                                                    "expand": "true",
+                                                                                                                    "color": "red",
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "name": "(5, 7)",
+                                                                                                                            "value": 27.21,
+                                                                                                                            "expand": "true",
+                                                                                                                            "color": "red",
+                                                                                                                            "children": [
+                                                                                                                                {
+                                                                                                                                    "name": "(4, 7)",
+                                                                                                                                    "value": 29.04,
+                                                                                                                                    "expand": "true",
+                                                                                                                                    "color": "red",
+                                                                                                                                    "children": [
+                                                                                                                                        {
+                                                                                                                                            "name": "(3, 7)",
+                                                                                                                                            "value": 30.89,
+                                                                                                                                            "expand": "true",
+                                                                                                                                            "color": "red",
+                                                                                                                                            "children": [
+                                                                                                                                                {
+                                                                                                                                                    "name": "(3, 8)",
+                                                                                                                                                    "value": 31.42,
+                                                                                                                                                    "expand": "true",
+                                                                                                                                                    "color": "red",
+                                                                                                                                                    "children": [
+                                                                                                                                                        {
+                                                                                                                                                            "name": "(3, 9)",
+                                                                                                                                                            "value": 32.0,
+                                                                                                                                                            "expand": "true",
+                                                                                                                                                            "color": "red",
+                                                                                                                                                            "children": [
+                                                                                                                                                                {
+                                                                                                                                                                    "name": "(3, 10)",
+                                                                                                                                                                    "value": 32.65,
+                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                    "color": "red",
+                                                                                                                                                                    "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "name": "(3, 11)",
+                                                                                                                                                                            "value": 33.37,
+                                                                                                                                                                            "expand": "true",
+                                                                                                                                                                            "color": "red",
+                                                                                                                                                                            "children": [
+                                                                                                                                                                                {
+                                                                                                                                                                                    "name": "(3, 12)",
+                                                                                                                                                                                    "value": 34.17,
+                                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                                    "color": "black",
+                                                                                                                                                                                    "children": [
+                                                                                                                                                                                        {
+                                                                                                                                                                                            "name": "(3, 13)",
+                                                                                                                                                                                            "value": 35.04,
+                                                                                                                                                                                            "expand": "true",
+                                                                                                                                                                                            "color": "black",
+                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                {
+                                                                                                                                                                                                    "name": "(4, 13)",
+                                                                                                                                                                                                    "value": 35.05,
+                                                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                                                    "color": "black",
+                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                        {
+                                                                                                                                                                                                            "name": "(5, 13)",
+                                                                                                                                                                                                            "value": 35.05,
+                                                                                                                                                                                                            "expand": "true",
+                                                                                                                                                                                                            "color": "black",
+                                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                                {
+                                                                                                                                                                                                                    "name": "(5, 14)",
+                                                                                                                                                                                                                    "value": 36.0,
+                                                                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                                                                    "color": "black",
+                                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                                        {
+                                                                                                                                                                                                                            "name": "(5, 15)",
+                                                                                                                                                                                                                            "value": 37.05,
+                                                                                                                                                                                                                            "expand": "true",
+                                                                                                                                                                                                                            "color": "black"
+                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                    ]
+                                                                                                                                                                                                                },
+                                                                                                                                                                                                                {
+                                                                                                                                                                                                                    "name": "(6, 13)",
+                                                                                                                                                                                                                    "value": 35.06,
+                                                                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                                                                    "color": "black",
+                                                                                                                                                                                                                    "children": []
+                                                                                                                                                                                                                }
+                                                                                                                                                                                                            ]
+                                                                                                                                                                                                        }
+                                                                                                                                                                                                    ]
+                                                                                                                                                                                                }
+                                                                                                                                                                                            ]
+                                                                                                                                                                                        }
+                                                                                                                                                                                    ]
+                                                                                                                                                                                },
+                                                                                                                                                                                {
+                                                                                                                                                                                    "name": "(4, 11)",
+                                                                                                                                                                                    "value": 33.4,
+                                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                                    "color": "red",
+                                                                                                                                                                                    "children": [
+                                                                                                                                                                                        {
+                                                                                                                                                                                            "name": "(5, 11)",
+                                                                                                                                                                                            "value": 33.44,
+                                                                                                                                                                                            "expand": "true",
+                                                                                                                                                                                            "color": "red",
+                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                {
+                                                                                                                                                                                                    "name": "(5, 10)",
+                                                                                                                                                                                                    "value": 34.77,
+                                                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                                                    "color": "black",
+                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                        {
+                                                                                                                                                                                                            "name": "(5, 9)",
+                                                                                                                                                                                                            "value": 36.18,
+                                                                                                                                                                                                            "expand": "true",
+                                                                                                                                                                                                            "color": "black"
+                                                                                                                                                                                                        }
+                                                                                                                                                                                                    ]
+                                                                                                                                                                                                },
+                                                                                                                                                                                                {
+                                                                                                                                                                                                    "name": "(6, 11)",
+                                                                                                                                                                                                    "value": 33.49,
+                                                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                                                    "color": "red",
+                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                        {
+                                                                                                                                                                                                            "name": "(7, 11)",
+                                                                                                                                                                                                            "value": 33.54,
+                                                                                                                                                                                                            "expand": "true",
+                                                                                                                                                                                                            "color": "red",
+                                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                                {
+                                                                                                                                                                                                                    "name": "(7, 12)",
+                                                                                                                                                                                                                    "value": 34.25,
+                                                                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                                                                    "color": "red",
+                                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                                        {
+                                                                                                                                                                                                                            "name": "(7, 13)",
+                                                                                                                                                                                                                            "value": 35.06,
+                                                                                                                                                                                                                            "expand": "true",
+                                                                                                                                                                                                                            "color": "red",
+                                                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                                                {
+                                                                                                                                                                                                                                    "name": "(8, 13)",
+                                                                                                                                                                                                                                    "value": 35.07,
+                                                                                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                                                                                    "color": "red",
+                                                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                                                        {
+                                                                                                                                                                                                                                            "name": "(9, 13)",
+                                                                                                                                                                                                                                            "value": 35.08,
+                                                                                                                                                                                                                                            "expand": "true",
+                                                                                                                                                                                                                                            "color": "red",
+                                                                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                                                                {
+                                                                                                                                                                                                                                                    "name": "(10, 13)",
+                                                                                                                                                                                                                                                    "value": 35.1,
+                                                                                                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                                                                                                    "color": "red",
+                                                                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                                                                        {
+                                                                                                                                                                                                                                                            "name": "(11, 13)",
+                                                                                                                                                                                                                                                            "value": 35.12,
+                                                                                                                                                                                                                                                            "expand": "true",
+                                                                                                                                                                                                                                                            "color": "red",
+                                                                                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                                                                                {
+                                                                                                                                                                                                                                                                    "name": "(11, 14)",
+                                                                                                                                                                                                                                                                    "value": 36.0,
+                                                                                                                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                                                                                                                    "color": "black",
+                                                                                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                                                                                        {
+                                                                                                                                                                                                                                                                            "name": "(11, 15)",
+                                                                                                                                                                                                                                                                            "value": 37.12,
+                                                                                                                                                                                                                                                                            "expand": "true",
+                                                                                                                                                                                                                                                                            "color": "black"
+                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                    ]
+                                                                                                                                                                                                                                                                },
+                                                                                                                                                                                                                                                                {
+                                                                                                                                                                                                                                                                    "name": "(12, 13)",
+                                                                                                                                                                                                                                                                    "value": 35.16,
+                                                                                                                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                                                                                                                    "color": "red",
+                                                                                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                                                                                        {
+                                                                                                                                                                                                                                                                            "name": "(13, 13)",
+                                                                                                                                                                                                                                                                            "value": 35.24,
+                                                                                                                                                                                                                                                                            "expand": "true",
+                                                                                                                                                                                                                                                                            "color": "red",
+                                                                                                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                                                                                                {
+                                                                                                                                                                                                                                                                                    "name": "(14, 13)",
+                                                                                                                                                                                                                                                                                    "value": 35.41,
+                                                                                                                                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                                                                                                                                    "color": "red",
+                                                                                                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                                                                                                        {
+                                                                                                                                                                                                                                                                                            "name": "(15, 13)",
+                                                                                                                                                                                                                                                                                            "value": 36.0,
+                                                                                                                                                                                                                                                                                            "expand": "true",
+                                                                                                                                                                                                                                                                                            "color": "red",
+                                                                                                                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                                                                                                                {
+                                                                                                                                                                                                                                                                                                    "name": "(15, 14)",
+                                                                                                                                                                                                                                                                                                    "value": 36.0,
+                                                                                                                                                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                                                                                                                                                    "color": "red"
+                                                                                                                                                                                                                                                                                                },
+                                                                                                                                                                                                                                                                                                {
+                                                                                                                                                                                                                                                                                                    "name": "(16, 13)",
+                                                                                                                                                                                                                                                                                                    "value": 37.41,
+                                                                                                                                                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                                                                                                                                                    "color": "black"
+                                                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                                            ]
+                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                    ]
+                                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                            ]
+                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                    ]
+                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                            ]
+                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                    ]
+                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                            ]
+                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                    ]
+                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                            ]
+                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                    ]
+                                                                                                                                                                                                                },
+                                                                                                                                                                                                                {
+                                                                                                                                                                                                                    "name": "(8, 11)",
+                                                                                                                                                                                                                    "value": 33.62,
+                                                                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                                                                    "color": "black",
+                                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                                        {
+                                                                                                                                                                                                                            "name": "(9, 11)",
+                                                                                                                                                                                                                            "value": 33.71,
+                                                                                                                                                                                                                            "expand": "true",
+                                                                                                                                                                                                                            "color": "black",
+                                                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                                                {
+                                                                                                                                                                                                                                    "name": "(10, 11)",
+                                                                                                                                                                                                                                    "value": 33.83,
+                                                                                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                                                                                    "color": "black",
+                                                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                                                        {
+                                                                                                                                                                                                                                            "name": "(11, 11)",
+                                                                                                                                                                                                                                            "value": 34.0,
+                                                                                                                                                                                                                                            "expand": "true",
+                                                                                                                                                                                                                                            "color": "black",
+                                                                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                                                                {
+                                                                                                                                                                                                                                                    "name": "(12, 11)",
+                                                                                                                                                                                                                                                    "value": 34.24,
+                                                                                                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                                                                                                    "color": "black",
+                                                                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                                                                        {
+                                                                                                                                                                                                                                                            "name": "(13, 11)",
+                                                                                                                                                                                                                                                            "value": 34.61,
+                                                                                                                                                                                                                                                            "expand": "true",
+                                                                                                                                                                                                                                                            "color": "black",
+                                                                                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                                                                                {
+                                                                                                                                                                                                                                                                    "name": "(14, 11)",
+                                                                                                                                                                                                                                                                    "value": 35.16,
+                                                                                                                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                                                                                                                    "color": "black",
+                                                                                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                                                                                        {
+                                                                                                                                                                                                                                                                            "name": "(15, 11)",
+                                                                                                                                                                                                                                                                            "value": 36.0,
+                                                                                                                                                                                                                                                                            "expand": "true",
+                                                                                                                                                                                                                                                                            "color": "black",
+                                                                                                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                                                                                                {
+                                                                                                                                                                                                                                                                                    "name": "(16, 11)",
+                                                                                                                                                                                                                                                                                    "value": 37.16,
+                                                                                                                                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                                                                                                                                    "color": "black"
+                                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                                            ]
+                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                    ]
+                                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                                            ]
+                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                    ]
+                                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                                            ]
+                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                    ]
+                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                            ]
+                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                    ]
+                                                                                                                                                                                                                }
+                                                                                                                                                                                                            ]
+                                                                                                                                                                                                        }
+                                                                                                                                                                                                    ]
+                                                                                                                                                                                                }
+                                                                                                                                                                                            ]
+                                                                                                                                                                                        }
+                                                                                                                                                                                    ]
+                                                                                                                                                                                }
+                                                                                                                                                                            ]
+                                                                                                                                                                        }
+                                                                                                                                                                    ]
+                                                                                                                                                                }
+                                                                                                                                                            ]
+                                                                                                                                                        }
+                                                                                                                                                    ]
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                    "name": "(2, 7)",
+                                                                                                                                                    "value": 32.76,
+                                                                                                                                                    "expand": "true",
+                                                                                                                                                    "color": "black",
+                                                                                                                                                    "children": [
+                                                                                                                                                        {
+                                                                                                                                                            "name": "(1, 7)",
+                                                                                                                                                            "value": 34.65,
+                                                                                                                                                            "expand": "true",
+                                                                                                                                                            "color": "black",
+                                                                                                                                                            "children": [
+                                                                                                                                                                {
+                                                                                                                                                                    "name": "(1, 6)",
+                                                                                                                                                                    "value": 36.12,
+                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                    "color": "black"
+                                                                                                                                                                }
+                                                                                                                                                            ]
+                                                                                                                                                        }
+                                                                                                                                                    ]
+                                                                                                                                                }
+                                                                                                                                            ]
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "(10, 1)",
+                    "value": 15.93,
+                    "expand": "true",
+                    "color": "black",
+                    "children": [
+                        {
+                            "name": "(11, 1)",
+                            "value": 16.6,
+                            "expand": "true",
+                            "color": "black",
+                            "children": [
+                                {
+                                    "name": "(11, 2)",
+                                    "value": 16.65,
+                                    "expand": "true",
+                                    "color": "black",
+                                    "children": [
+                                        {
+                                            "name": "(11, 3)",
+                                            "value": 16.7,
+                                            "expand": "true",
+                                            "color": "black",
+                                            "children": [
+                                                {
+                                                    "name": "(12, 3)",
+                                                    "value": 17.4,
+                                                    "expand": "true",
+                                                    "color": "black",
+                                                    "children": [
+                                                        {
+                                                            "name": "(13, 3)",
+                                                            "value": 18.18,
+                                                            "expand": "true",
+                                                            "color": "black",
+                                                            "children": [
+                                                                {
+                                                                    "name": "(13, 2)",
+                                                                    "value": 20.17,
+                                                                    "expand": "true",
+                                                                    "color": "black",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "(13, 1)",
+                                                                            "value": 22.15,
+                                                                            "expand": "true",
+                                                                            "color": "black",
+                                                                            "children": [
+                                                                                {
+                                                                                    "name": "(14, 1)",
+                                                                                    "value": 23.04,
+                                                                                    "expand": "true",
+                                                                                    "color": "black",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "name": "(15, 1)",
+                                                                                            "value": 24.0,
+                                                                                            "expand": "true",
+                                                                                            "color": "black",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "name": "(15, 0)",
+                                                                                                    "value": 26.0,
+                                                                                                    "expand": "true",
+                                                                                                    "color": "black",
+                                                                                                    "children": []
+                                                                                                },
+                                                                                                {
+                                                                                                    "name": "(16, 1)",
+                                                                                                    "value": 25.04,
+                                                                                                    "expand": "true",
+                                                                                                    "color": "black",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "name": "(17, 1)",
+                                                                                                            "value": 26.15,
+                                                                                                            "expand": "true",
+                                                                                                            "color": "black",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "name": "(17, 2)",
+                                                                                                                    "value": 26.17,
+                                                                                                                    "expand": "true",
+                                                                                                                    "color": "black",
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "name": "(17, 3)",
+                                                                                                                            "value": 26.18,
+                                                                                                                            "expand": "true",
+                                                                                                                            "color": "black",
+                                                                                                                            "children": [
+                                                                                                                                {
+                                                                                                                                    "name": "(17, 4)",
+                                                                                                                                    "value": 26.2,
+                                                                                                                                    "expand": "true",
+                                                                                                                                    "color": "black",
+                                                                                                                                    "children": [
+                                                                                                                                        {
+                                                                                                                                            "name": "(17, 5)",
+                                                                                                                                            "value": 26.22,
+                                                                                                                                            "expand": "true",
+                                                                                                                                            "color": "black",
+                                                                                                                                            "children": [
+                                                                                                                                                {
+                                                                                                                                                    "name": "(17, 6)",
+                                                                                                                                                    "value": 26.25,
+                                                                                                                                                    "expand": "true",
+                                                                                                                                                    "color": "black",
+                                                                                                                                                    "children": [
+                                                                                                                                                        {
+                                                                                                                                                            "name": "(17, 7)",
+                                                                                                                                                            "value": 26.28,
+                                                                                                                                                            "expand": "true",
+                                                                                                                                                            "color": "black",
+                                                                                                                                                            "children": [
+                                                                                                                                                                {
+                                                                                                                                                                    "name": "(16, 7)",
+                                                                                                                                                                    "value": 27.07,
+                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                    "color": "black",
+                                                                                                                                                                    "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "name": "(15, 7)",
+                                                                                                                                                                            "value": 28.0,
+                                                                                                                                                                            "expand": "true",
+                                                                                                                                                                            "color": "black",
+                                                                                                                                                                            "children": [
+                                                                                                                                                                                {
+                                                                                                                                                                                    "name": "(15, 8)",
+                                                                                                                                                                                    "value": 28.0,
+                                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                                    "color": "black",
+                                                                                                                                                                                    "children": [
+                                                                                                                                                                                        {
+                                                                                                                                                                                            "name": "(15, 9)",
+                                                                                                                                                                                            "value": 28.0,
+                                                                                                                                                                                            "expand": "true",
+                                                                                                                                                                                            "color": "black",
+                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                {
+                                                                                                                                                                                                    "name": "(14, 9)",
+                                                                                                                                                                                                    "value": 29.1,
+                                                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                                                    "color": "black",
+                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                        {
+                                                                                                                                                                                                            "name": "(13, 9)",
+                                                                                                                                                                                                            "value": 30.39,
+                                                                                                                                                                                                            "expand": "true",
+                                                                                                                                                                                                            "color": "black",
+                                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                                {
+                                                                                                                                                                                                                    "name": "(12, 9)",
+                                                                                                                                                                                                                    "value": 31.83,
+                                                                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                                                                    "color": "black",
+                                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                                        {
+                                                                                                                                                                                                                            "name": "(11, 9)",
+                                                                                                                                                                                                                            "value": 33.4,
+                                                                                                                                                                                                                            "expand": "true",
+                                                                                                                                                                                                                            "color": "black",
+                                                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                                                {
+                                                                                                                                                                                                                                    "name": "(10, 9)",
+                                                                                                                                                                                                                                    "value": 35.07,
+                                                                                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                                                                                    "color": "black",
+                                                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                                                        {
+                                                                                                                                                                                                                                            "name": "(9, 9)",
+                                                                                                                                                                                                                                            "value": 36.81,
+                                                                                                                                                                                                                                            "expand": "true",
+                                                                                                                                                                                                                                            "color": "black"
+                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                    ]
+                                                                                                                                                                                                                                }
+                                                                                                                                                                                                                            ]
+                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                    ]
+                                                                                                                                                                                                                }
+                                                                                                                                                                                                            ]
+                                                                                                                                                                                                        }
+                                                                                                                                                                                                    ]
+                                                                                                                                                                                                }
+                                                                                                                                                                                            ]
+                                                                                                                                                                                        }
+                                                                                                                                                                                    ]
+                                                                                                                                                                                }
+                                                                                                                                                                            ]
+                                                                                                                                                                        }
+                                                                                                                                                                    ]
+                                                                                                                                                                }
+                                                                                                                                                            ]
+                                                                                                                                                        }
+                                                                                                                                                    ]
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                    "name": "(16, 5)",
+                                                                                                                                                    "value": 27.06,
+                                                                                                                                                    "expand": "true",
+                                                                                                                                                    "color": "black",
+                                                                                                                                                    "children": [
+                                                                                                                                                        {
+                                                                                                                                                            "name": "(15, 5)",
+                                                                                                                                                            "value": 28.0,
+                                                                                                                                                            "expand": "true",
+                                                                                                                                                            "color": "black",
+                                                                                                                                                            "children": [
+                                                                                                                                                                {
+                                                                                                                                                                    "name": "(14, 5)",
+                                                                                                                                                                    "value": 29.06,
+                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                    "color": "black",
+                                                                                                                                                                    "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "name": "(13, 5)",
+                                                                                                                                                                            "value": 30.22,
+                                                                                                                                                                            "expand": "true",
+                                                                                                                                                                            "color": "black",
+                                                                                                                                                                            "children": [
+                                                                                                                                                                                {
+                                                                                                                                                                                    "name": "(13, 6)",
+                                                                                                                                                                                    "value": 30.25,
+                                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                                    "color": "black",
+                                                                                                                                                                                    "children": [
+                                                                                                                                                                                        {
+                                                                                                                                                                                            "name": "(13, 7)",
+                                                                                                                                                                                            "value": 30.28,
+                                                                                                                                                                                            "expand": "true",
+                                                                                                                                                                                            "color": "black",
+                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                {
+                                                                                                                                                                                                    "name": "(12, 7)",
+                                                                                                                                                                                                    "value": 31.62,
+                                                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                                                    "color": "black",
+                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                        {
+                                                                                                                                                                                                            "name": "(11, 7)",
+                                                                                                                                                                                                            "value": 33.06,
+                                                                                                                                                                                                            "expand": "true",
+                                                                                                                                                                                                            "color": "black",
+                                                                                                                                                                                                            "children": []
+                                                                                                                                                                                                        }
+                                                                                                                                                                                                    ]
+                                                                                                                                                                                                }
+                                                                                                                                                                                            ]
+                                                                                                                                                                                        },
+                                                                                                                                                                                        {
+                                                                                                                                                                                            "name": "(12, 6)",
+                                                                                                                                                                                            "value": 31.54,
+                                                                                                                                                                                            "expand": "true",
+                                                                                                                                                                                            "color": "black",
+                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                {
+                                                                                                                                                                                                    "name": "(11, 6)",
+                                                                                                                                                                                                    "value": 32.94,
+                                                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                                                    "color": "black",
+                                                                                                                                                                                                    "children": []
+                                                                                                                                                                                                }
+                                                                                                                                                                                            ]
+                                                                                                                                                                                        }
+                                                                                                                                                                                    ]
+                                                                                                                                                                                },
+                                                                                                                                                                                {
+                                                                                                                                                                                    "name": "(12, 5)",
+                                                                                                                                                                                    "value": 31.49,
+                                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                                    "color": "black",
+                                                                                                                                                                                    "children": [
+                                                                                                                                                                                        {
+                                                                                                                                                                                            "name": "(11, 5)",
+                                                                                                                                                                                            "value": 32.85,
+                                                                                                                                                                                            "expand": "true",
+                                                                                                                                                                                            "color": "black",
+                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                {
+                                                                                                                                                                                                    "name": "(10, 5)",
+                                                                                                                                                                                                    "value": 34.3,
+                                                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                                                    "color": "black",
+                                                                                                                                                                                                    "children": [
+                                                                                                                                                                                                        {
+                                                                                                                                                                                                            "name": "(9, 5)",
+                                                                                                                                                                                                            "value": 35.82,
+                                                                                                                                                                                                            "expand": "true",
+                                                                                                                                                                                                            "color": "black",
+                                                                                                                                                                                                            "children": [
+                                                                                                                                                                                                                {
+                                                                                                                                                                                                                    "name": "(8, 5)",
+                                                                                                                                                                                                                    "value": 37.4,
+                                                                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                                                                    "color": "black"
+                                                                                                                                                                                                                }
+                                                                                                                                                                                                            ]
+                                                                                                                                                                                                        }
+                                                                                                                                                                                                    ]
+                                                                                                                                                                                                }
+                                                                                                                                                                                            ]
+                                                                                                                                                                                        }
+                                                                                                                                                                                    ]
+                                                                                                                                                                                }
+                                                                                                                                                                            ]
+                                                                                                                                                                        }
+                                                                                                                                                                    ]
+                                                                                                                                                                }
+                                                                                                                                                            ]
+                                                                                                                                                        }
+                                                                                                                                                    ]
+                                                                                                                                                }
+                                                                                                                                            ]
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "name": "(18, 1)",
+                                                                                                                    "value": 27.34,
+                                                                                                                    "expand": "true",
+                                                                                                                    "color": "black",
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "name": "(19, 1)",
+                                                                                                                            "value": 28.6,
+                                                                                                                            "expand": "true",
+                                                                                                                            "color": "black",
+                                                                                                                            "children": [
+                                                                                                                                {
+                                                                                                                                    "name": "(19, 2)",
+                                                                                                                                    "value": 28.65,
+                                                                                                                                    "expand": "true",
+                                                                                                                                    "color": "black",
+                                                                                                                                    "children": [
+                                                                                                                                        {
+                                                                                                                                            "name": "(19, 3)",
+                                                                                                                                            "value": 28.7,
+                                                                                                                                            "expand": "true",
+                                                                                                                                            "color": "black",
+                                                                                                                                            "children": [
+                                                                                                                                                {
+                                                                                                                                                    "name": "(20, 3)",
+                                                                                                                                                    "value": 30.08,
+                                                                                                                                                    "expand": "true",
+                                                                                                                                                    "color": "black",
+                                                                                                                                                    "children": [
+                                                                                                                                                        {
+                                                                                                                                                            "name": "(21, 3)",
+                                                                                                                                                            "value": 31.53,
+                                                                                                                                                            "expand": "true",
+                                                                                                                                                            "color": "black",
+                                                                                                                                                            "children": [
+                                                                                                                                                                {
+                                                                                                                                                                    "name": "(22, 3)",
+                                                                                                                                                                    "value": 33.04,
+                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                    "color": "black",
+                                                                                                                                                                    "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "name": "(23, 3)",
+                                                                                                                                                                            "value": 34.6,
+                                                                                                                                                                            "expand": "true",
+                                                                                                                                                                            "color": "black",
+                                                                                                                                                                            "children": [
+                                                                                                                                                                                {
+                                                                                                                                                                                    "name": "(23, 2)",
+                                                                                                                                                                                    "value": 36.42,
+                                                                                                                                                                                    "expand": "true",
+                                                                                                                                                                                    "color": "black"
+                                                                                                                                                                                }
+                                                                                                                                                                            ]
+                                                                                                                                                                        }
+                                                                                                                                                                    ]
+                                                                                                                                                                }
+                                                                                                                                                            ]
+                                                                                                                                                        }
+                                                                                                                                                    ]
+                                                                                                                                                }
+                                                                                                                                            ]
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "(14, 3)",
+                                                                    "value": 19.05,
+                                                                    "expand": "true",
+                                                                    "color": "black",
+                                                                    "children": [
+                                                                        {
+                                                                            "name": "(15, 3)",
+                                                                            "value": 20.0,
+                                                                            "expand": "true",
+                                                                            "color": "black",
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

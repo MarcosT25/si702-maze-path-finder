@@ -10,8 +10,6 @@ def main():
 
     maze = generate_maze('assets/25-25-seed-702.png')
     print_maze(maze, 'assets/original_maze')
-    # open_some_walls(maze)
-    # print_maze(maze, 'assets/opened_maze')
 
     start = (9, 0)
     # end = (0, 9)
