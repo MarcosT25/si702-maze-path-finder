@@ -23,12 +23,11 @@ flask run
 
 `1. Instale as dependências`
 
-```
-
+```bash
 npm install
 ```
-`2. Run flask app`
 
-```
+`2. Run vue app`
+```bash
 npm run serve
 ```
