@@ -78,7 +78,7 @@ def search_by_name(name, dict):
                     return result
             return result
 
-def astar(maze, start, end):
+def astar(maze, heuristic, start, end):
     """Returns a list of possible paths to the goal, writes json file with last tree and open and closed lists for each expansion"""
 
     # Create start and end node
@@ -141,15 +141,8 @@ def astar(maze, start, end):
                 current = current.parent
             paths_list.append(path[::-1]) # Append reversed path
 
-            continue_searching = False
-            for open_node in open_list:
-                if open_node.f <= current_node.f:
-                    continue_searching = True
-                    break
-
-            if continue_searching == False:
-                for point in paths_list[0]:
-                    search_by_name(str(point), node_dict)["color"] = "red"
+            for point in paths_list[0]:
+                search_by_name(str(point), node_dict)["color"] = "red"
                 f = open('last_tree.json', 'wt')
                 f.write(str(node_dict))
                 f.close()
@@ -172,6 +165,15 @@ def astar(maze, start, end):
                 f = open('all_lists.json', 'wt')
                 f.write(content)
                 f.close()
+            
+            continue_searching = False
+            for open_node in open_list:
+                if open_node.f <= current_node.f:
+                    continue_searching = True
+                    break
+
+            if continue_searching == False:
+                
                 return paths_list
 
         # Generate children
@@ -208,7 +210,7 @@ def astar(maze, start, end):
 
             # Create the f, g, and h values
             child.g = current_node.g + 1
-            child.h = sqrt(((child.position[0] - end_node.position[0]) ** 2) + ((child.position[1] - end_node.position[1]) ** 2))
+            child.h = sqrt(((child.position[0] - end_node.position[0]) ** 2) + ((child.position[1] - end_node.position[1]) ** 2)) if heuristic == 1 else (((child.position[0] - end_node.position[0]) ** 2) + ((child.position[1] - end_node.position[1]) ** 2))
             child.f = child.g + child.h
 
             # Child is on the open list

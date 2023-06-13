@@ -13,8 +13,9 @@ app.config['CORS_HEADERS'] = 'Content-Type'
 def pong():
     return jsonify(data = "pong")
 
-@app.route("/solve/<int:entrance>/<int:seed>")
-def solve(entrance, seed):
+# Report examples: (2, 1, 80) and (2, 2, 80) returns total cost 32 and 34 respectively
+@app.route("/solve/<int:entrance>/<int:heuristic>/<int:seed>")
+def solve(entrance, heuristic, seed):
     maze = generate_maze('assets/25-25-seed-702.png')
 
     open_some_walls(maze)
@@ -42,7 +43,7 @@ def solve(entrance, seed):
     end = generate_trophy_location(maze, seed)
     print(f'O troféu foi gerado no ponto {end}')
 
-    solves = astar(maze, start, end)
+    solves = astar(maze, heuristic, start, end)
 
     for i in range(len(solves)):
         print_maze_with_path(maze, solves[i], end, i)
