@@ -1,6 +1,6 @@
 <template>
-  <h1>Toma o labirinto</h1>
-  <img src="../assets/1solve.png" alt="Solve" style="height: 1000px;">
+  <h1>Caminho final</h1>
+  <img :src="imageSrc" alt="Solve" style="height: 30vh;" />
   <div class="tree">
     <h1>Árvore e listas resultantes</h1>
     <div>{{ $route.params.graphs }}</div>
@@ -19,8 +19,8 @@
           <div>
             <button type="button" v-show="iteration > 0" @click="selectList(-iteration)">&lt;&lt;</button>
             <button type="button" v-show="iteration > 0" @click="selectList(-1)">&lt;</button>
-            <button type="button" v-show="iteration < lists.length" @click="selectList(1)">></button>
-            <button type="button" v-show="iteration < lists.length"
+            <button type="button" v-show="iteration < lists.length - 1" @click="selectList(1)">></button>
+            <button type="button" v-show="iteration < lists.length - 1"
               @click="selectList(lists.length - iteration - 1)">>></button>
           </div>
           <p>Expansão: {{ iteration + 1 }}</p>
@@ -43,16 +43,8 @@
 
 <script>
 import { defineComponent, ref, reactive } from 'vue';
-import json from '../../public/final-graph.json'
-import lists from '../../public/open-closed-lists.json'
 
 export default defineComponent({
-  props: {
-    lists: {
-      type: Array,
-      default: () => lists
-    }
-  },
   data() {
     return {
       iteration: 0
@@ -67,8 +59,17 @@ export default defineComponent({
     }
   },
 
+  computed: {
+    imageSrc() {
+      return `data:image/jpeg;base64,${localStorage.getItem('image')}`;
+    },
+  },
+
   setup() {
-    return { Data: json, lists };
+    var lists = JSON.parse(localStorage.getItem('lists'));
+    var tree = JSON.parse(localStorage.getItem('tree'));
+    return { Data: tree, lists };
+
   },
 });
 

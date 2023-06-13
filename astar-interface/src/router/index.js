@@ -20,4 +20,10 @@ const router = createRouter({
   routes
 })
 
+router.beforeEach((to, from, next) => {
+  setTimeout(() => {
+    next();
+  }, 1000);
+});
+
 export default router
