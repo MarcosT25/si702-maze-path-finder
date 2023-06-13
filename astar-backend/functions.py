@@ -141,6 +141,16 @@ def astar(maze, heuristic, start, end):
                 current = current.parent
             paths_list.append(path[::-1]) # Append reversed path
 
+            # Saves last open and closed lists for each expansion
+            new_dict = {}
+            new_dict["lista_aberta"] = []
+            for node in open_list:
+                new_dict["lista_aberta"].append(str(node.position))
+            new_dict["lista_fechada"] = []
+            for node in closed_list:
+                new_dict["lista_fechada"].append(str(node.position))
+            lists.append(new_dict)
+
             for point in paths_list[0]:
                 search_by_name(str(point), node_dict)["color"] = "red"
                 f = open('last_tree.json', 'wt')

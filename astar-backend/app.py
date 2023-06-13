@@ -13,7 +13,7 @@ app.config['CORS_HEADERS'] = 'Content-Type'
 def pong():
     return jsonify(data = "pong")
 
-# Report examples: (2, 1, 80) and (2, 2, 80) returns total cost 32 and 34 respectively
+# Report examples: (1, 1, 80) and (1, 2, 80) returns total cost 32 and 34 respectively
 @app.route("/solve/<int:entrance>/<int:heuristic>/<int:seed>")
 def solve(entrance, heuristic, seed):
     maze = generate_maze('assets/25-25-seed-702.png')
