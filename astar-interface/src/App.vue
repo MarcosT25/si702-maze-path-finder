@@ -1,7 +1,6 @@
 <template>
   <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/tree">Tree</router-link>
+    <router-link to="/">Home</router-link>
   </nav>
   <router-view />
 </template>
@@ -16,7 +15,7 @@
 }
 
 nav {
-  padding: 30px;
+  padding: 15px;
 }
 
 nav a {
